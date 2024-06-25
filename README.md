@@ -1,6 +1,6 @@
 # 💫 About Me:
 ✌ Hi! My name is Matheus Beneti.<br>🎓currently studying information systems at the federal university of uberlândia.<br>
-
+📧 You can reach me at: matheusbeneti3@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-beneti-b7b687241/) 
